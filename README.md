@@ -19,6 +19,17 @@ Lista de actividades del curso
   + Compilar script en formato *PDF*
   + Actualizar en *GithHub*
   
-+ :paperclip: Clase 4:30.01.2020 (*Script 2*)
++ :paperclip: Clase 4: 30.01.2020 (*Script 2*)
   + Importar base de datos de excel en formato *.csv*
   + Utilizar el comando *read.csv*
+  
++ Clase 5: 05.02.2020 (*01-asignación*)
+  + Importar base de dropbox
+  + Utilizar el comando *par(mfrow)*
+  + Insertar histogramas
+
++ Clase 7: 12.02.2020 (*Script 3*)
+  + Aplicación prueba de Shapiro
+  + Aplicación prubea de Kolmogorov
+  + Insertar tabla de frecuencia
+  +Compilar script en formato *PDF*
