@@ -19,6 +19,6 @@ Lista de actividades del curso
   + Compilar script en formato *PDF*
   + Actualizar en *GithHub*
   
-  + :paperclip: Clase 4:30.01.2020 (*Script 2*)
-    + Importar base de datos de excel en formato *.csv*
-    + Utilizar el comando *read.csv*
++ :paperclip: Clase 4:30.01.2020 (*Script 2*)
+  + Importar base de datos de excel en formato *.csv*
+  + Utilizar el comando *read.csv*
