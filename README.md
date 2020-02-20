@@ -32,4 +32,5 @@ Lista de actividades del curso
   + Aplicación prueba de Shapiro
   + Aplicación prubea de Kolmogorov
   + Insertar tabla de frecuencia
-  +Compilar script en formato *PDF*
+  + Compilar script en formato *PDF*
+  
