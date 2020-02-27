@@ -10,8 +10,8 @@ Lista de actividades del curso
   + Actualizamos nuestro repositorio via version control (*Git*)
 
 + :paperclip: Clase 2: 23.01.2020
-+ Primera tarea del curso
-+ La fecha de entrega será el día 28.01 a las 23 horas
+  + Primera tarea del curso
+  + La fecha de entrega será el día 28.01 a las 23 horas
 
 + Clase 3: 29.01.2020 (*Script 1*)
   + Instalar paquetería para R
@@ -19,7 +19,7 @@ Lista de actividades del curso
   + Compilar script en formato *PDF*
   + Actualizar en *GithHub*
   
-+ :paperclip: Clase 4: 30.01.2020 (*Script 2*)
++ Clase 4: 30.01.2020 (*Script 2*)
   + Importar base de datos de excel en formato *.csv*
   + Utilizar el comando *read.csv*
   
@@ -33,4 +33,17 @@ Lista de actividades del curso
   + Aplicación prubea de Kolmogorov
   + Insertar tabla de frecuencia
   + Compilar script en formato *PDF*
+
++ Clase 8: 13.02.2020
+
++ Clase 9: 19.02.2020
+
++ Clase 10: 20.02.2020
+
++ Clase 11: 26.02.2020
+  + Primer examen prueba
+    + Nuevo repositorio
+    + Archivo *Script* y *PDF*
+
++ Clase 12: 27.02.2020
   
