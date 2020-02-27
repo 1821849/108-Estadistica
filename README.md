@@ -28,6 +28,11 @@ Lista de actividades del curso
   + Utilizar el comando *par(mfrow)*
   + Insertar histogramas
 
++ Clase 6: 06.02.2020
+  + Importar base de dropbox
+  + Utilizar el comando *par(mfrow)*
+  + Insertar histogramas  
+
 + Clase 7: 12.02.2020 (*Script 3*)
   + Aplicación prueba de Shapiro
   + Aplicación prubea de Kolmogorov
@@ -35,10 +40,16 @@ Lista de actividades del curso
   + Compilar script en formato *PDF*
 
 + Clase 8: 13.02.2020
+  + Aplicación prueba de Shapiro
+  + Aplicación prubea de Kolmogorov
+  + Insertar tabla de frecuencia
+  + Compilar script en formato *PDF*
 
-+ Clase 9: 19.02.2020
++ Clase 9: 19.02.2020 (*Asignacion 2*)
+  + Importar datos de 
 
-+ Clase 10: 20.02.2020
++ Clase 10: 20.02.2020 (*Asignacion 2*)
+
 
 + Clase 11: 26.02.2020
   + Primer examen prueba
@@ -46,4 +57,5 @@ Lista de actividades del curso
     + Archivo *Script* y *PDF*
 
 + Clase 12: 27.02.2020
+  + BD Cedro Rojo pruebas de T
   
