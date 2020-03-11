@@ -58,4 +58,8 @@ Lista de actividades del curso
 
 + Clase 12: 27.02.2020
   + BD Cedro Rojo pruebas de T
+  + :dart: Redacción de Hipotesis nula y alternativa
+  
++ Clase 13: 11.03.2020
+  + BD Vivero prueba de T de dos muestras independientes
   
