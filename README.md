@@ -10,8 +10,8 @@ Lista de actividades del curso
   + Actualizamos nuestro repositorio via version control (*Git*)
 
 + :paperclip: Clase 2: 23.01.2020
-+ Primera tarea del curso
-+ La fecha de entrega será el día 28.01 a las 23 horas
+  + Primera tarea del curso
+  + La fecha de entrega será el día 28.01 a las 23 horas
 
 + Clase 3: 29.01.2020 (*Script 1*)
   + Instalar paquetería para R
@@ -19,7 +19,7 @@ Lista de actividades del curso
   + Compilar script en formato *PDF*
   + Actualizar en *GithHub*
   
-+ :paperclip: Clase 4: 30.01.2020 (*Script 2*)
++ Clase 4: 30.01.2020 (*Script 2*)
   + Importar base de datos de excel en formato *.csv*
   + Utilizar el comando *read.csv*
   
@@ -27,6 +27,11 @@ Lista de actividades del curso
   + Importar base de dropbox
   + Utilizar el comando *par(mfrow)*
   + Insertar histogramas
+
++ Clase 6: 06.02.2020
+  + Importar base de dropbox
+  + Utilizar el comando *par(mfrow)*
+  + Insertar histogramas  
 
 + Clase 7: 12.02.2020 (*Script 3*)
   + Aplicación prueba de Shapiro
@@ -51,7 +56,6 @@ Lista de actividades del curso
   
 + Clase 11: 26.02.2020
   + Primer examen prueba
-
 
 + Clase 12: 04.03.2020 (*Prueba de T*)
   + BD Cedro Rojo Prueba de t (una muestra)
@@ -85,3 +89,4 @@ Lista de actividades del curso
 
 + Clase 21: 07.05.2020
   + Correlación en Excel
+  
