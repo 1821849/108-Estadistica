@@ -33,4 +33,55 @@ Lista de actividades del curso
   + Aplicación prubea de Kolmogorov
   + Insertar tabla de frecuencia
   + Compilar script en formato *PDF*
+
++ Clase 8: 13.02.2020 (*Script 3*)
+  + Aplicación prueba de Shapiro
+  + Aplicación prubea de Kolmogorov
+  + Insertar tabla de frecuencia
+  + Compilar script en formato *PDF*
+
++ Clase 9: 19.02.2020 (*02-asignación*)
+  + Segunda tarea del curso
+  + Tablas de frecuencia
+  + Utilización de barplot
+  + La fecha de entrega será el día 20.02.2020
+
++ Clase 10: 20.02.2020
+  + Continuación de la segunda tarea del curso
   
++ Clase 11: 26.02.2020
+  + Primer examen prueba
+
+
++ Clase 12: 04.03.2020 (*Prueba de T*)
+  + BD Cedro Rojo Prueba de t (una muestra)
+  + Redacción de Hipótesis (nula y alternativa)
+
++ Clase 13: 05.03.2020 (*Prueba de T*)
+  +BD Vivero prueba de t de dos muestras independientes
+
++ Clase 14: 11.03.2020 (*Prueba de T*)
+
++ Clase 15: 12.03.2020 (*Prueba de T*)
+  + Ejercicios prueba de T
+  
++ Receso por contincengia: 17.03.2020-20.04.2020
+
++ Clase 16: 22.04.2020 (*Prueba de T*)
+  + Prueba de T en Excel
+
++ Clase 17: 23.04.2020 (*Prueba de T*)
+  + Prueba de T en Excel
+
++ Clase 18: 29.04.2020 (*Prueba de T*)
+  + Prueba de T en Excel
+
++ Clase 19: 30.04.2020 (*Prueba de T*)
+  + Prueba de T en Excel
+  +Utilización de pruebas lógicas y condicionantes.
+
++ Clase 20: 06.05.2020
+  + Correlación en Excel
+
++ Clase 21: 07.05.2020
+  + Correlación en Excel
