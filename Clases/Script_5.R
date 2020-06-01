@@ -1,16 +1,18 @@
+# Daniela Victoria Cansino Rosales
+# Matrícula: 1821849
+# 11.03.2020
 
-library(repmis)
-conjunto <- source_data("https://www.dropbox.com/s/hmsf07bbayxv6m3/cuadro1.csv?dl=1")
+# Importar datos de vivero ------------------------------------------------
+setwd("C:/Tarea/108-Estadistica/Clases")
+Vivero <- read.csv("vivero.csv", header= TRUE)
 
-# Normalidad --------------------------------------------------------------
+summary(Vivero)
+
+boxplot(Vivero$IE ~ Vivero$Tratamiento, col= "darkcyan",
+        xlab = "Tratamientos", ylab = "IE") #boxplot de dos valores
 
 
+# Prueba de t -------------------------------------------------------------
 
-head(conjunto)
-
-# Aplicación prueba de Shapiro.test para la variable Altura
-
-shapiro.test(conjunto$Altura)
-ks.test(conjunto$Diametro, "pnorm", mean= mean(conjunto$Diametro, sd=sd(conjunto$Diametro)))
-
-hist(conjunto$Diametro, xlab = "Diametro", main= "Histograma de Diametro")
+t.test(Vivero$IE ~ Vivero$Tratamiento) #aplicamos prueba de T
+t.test(Vivero$IE ~ Vivero$Tratamiento, var.equal= T) #aplicamos var.equal

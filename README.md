@@ -90,3 +90,27 @@ Lista de actividades del curso
 + Clase 21: 07.05.2020
   + Correlación en Excel
   
++ Clase 22: 13.05.2020
+  + Revisión de Asignación 4 (*Muestras independiente*)
+  + Ejercicio ejemplo de prueba de T de 2 muestras
+  
++ Clase 23: 14.05.2020
+  + Pruebas de T (*Distribución de 1 y 2 dos colas*)
+  + 1 cola: Probabilidad 0.05 (95% de confiabilidad)
+  + 2 colas: Probabilidad 0.25 (se divide la pro. de 0.05 entre dos)
+
++ Clase 24: 20.05.2020
+  + Ejercicio 1 Pinus pseodostrobus (*Prueba de T de dos muestras*)
+  + Cuestionario
+  
++ Clase 25: 21.05.2020
+  + Ejercicio 2 Layers (*Prueba de T de muestras dependientes*)
+  + Cuestionario
+
++ Clase 27: 27.05.2020
+  + Ejercicio 3 Terremotos
+  + Cuestionario
+
++ Clase 28: 28.05.2020
+  + Ejercicio 4 Costales de alimento (*Prueb de T de una cola*)
+  + Cuestionario
